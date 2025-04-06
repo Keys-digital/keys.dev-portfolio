@@ -13,7 +13,7 @@ const Hero: React.FC = () => {
         </h2>
         <p className="text-gray-400 max-w-xl mt-4 leading-relaxed">
           Building scalable, secure, and high-performance backend solutions, I
-          am a backend software engineer specializing in
+          am a backend software engineer specializing in&nbsp;
           <strong>Node.js, Express.js, and MongoDB</strong>. From designing
           robust RESTful APIs to optimizing cloud-based deployments, I transform
           ideas into efficient, scalable applications.
